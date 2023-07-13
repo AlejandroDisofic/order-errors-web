@@ -16,6 +16,7 @@
             "outputPath": "dist/order_error_app",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "host": "0.0.0.0",
             "polyfills": [
               "zone.js"
             ],

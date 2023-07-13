@@ -16,7 +16,6 @@
             "outputPath": "dist/order_error_app",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "deployUrl": "$NG_BUILD_DEPLOY_URL",
             "polyfills": [
               "zone.js"
             ],
